@@ -1,2 +1,2 @@
-github "danielgindi/Charts" ~> 3.0.4
-github "CoderMJLee/MJExtension" ~> 3.0.13
+github "danielgindi/Charts" == 3.0.4
+github "CoderMJLee/MJExtension" == 3.0.13
